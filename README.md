@@ -96,9 +96,9 @@ On page 2, row discount is the order discount (70 / 70 / 20). The total 48% is t
 
 ## Report
 
-![Profit Leak page](images/profit-leak.png)
+![Profit Leak page](profit-leak.png)
 
-![Loss product drill-through](images/loss-detail.png)
+![Loss product drill-through](loss-detail.png)
 
 ## AI
 
